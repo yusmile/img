@@ -1,8 +1,10 @@
 ﻿# repository
 博客图片
 
-打开它，看到网址，将网址中blob改为raw,这就是你的图片外链地址了。
+打开它，看到网址，将网址中github.com改为raw.githubusercontent.com,这就是你的图片外链地址了。
 
+https://github.com/yusmile/img/blob/master/cometrue/%E6%97%A0%E6%A0%87%E9%A2%982.ICO
+https://raw.githubusercontent.com/yusmile/img/master/cometrue/%E6%97%A0%E6%A0%87%E9%A2%982.ICO
 
 
 至此大功告成，你的图片已经在GitHub服务器上了。
